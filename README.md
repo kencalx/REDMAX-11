@@ -1,6 +1,8 @@
 # REDMAX-11
 A root module that enables previously disabled native hardware and software features within Redmagic OS
 
+PLEASE NOTE: This was created and tested with the Redmagic 11 Pro gloval version, these tweaks may not work on other models.
+
 After looking through the stock build properties and reserching, I identified the following paramaters to change:
 
 ro.vendor.feature.feature_new_private_space "true"
